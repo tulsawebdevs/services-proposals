@@ -17,7 +17,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.18.3",
     "jsonwebtoken": "9.0.2",
-    "slonik": "^40.2.1",
+    "slonik": "^45.0.0",
     "slonik-utilities": "^2.0.2",
     "slonik-interceptor-field-name-transformation": "40.2.4",
     "zod": "^3.22.4"
